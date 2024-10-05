@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1728114748336,
+      "tag": "0000_adorable_lenny_balinger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1728117149330,
+      "tag": "0001_left_blob",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1728118566526,
+      "tag": "0002_shallow_outlaw_kid",
+      "breakpoints": true
+    }
+  ]
+}
